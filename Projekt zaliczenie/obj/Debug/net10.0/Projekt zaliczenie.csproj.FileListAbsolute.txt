@@ -1,0 +1,15 @@
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\bin\Debug\net10.0\Projekt zaliczenie.exe
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\bin\Debug\net10.0\Projekt zaliczenie.deps.json
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\bin\Debug\net10.0\Projekt zaliczenie.runtimeconfig.json
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\bin\Debug\net10.0\Projekt zaliczenie.dll
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\bin\Debug\net10.0\Projekt zaliczenie.pdb
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\obj\Debug\net10.0\Projekt zaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\obj\Debug\net10.0\Projekt zaliczenie.AssemblyInfoInputs.cache
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\obj\Debug\net10.0\Projekt zaliczenie.AssemblyInfo.cs
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\obj\Debug\net10.0\Projekt zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\obj\Debug\net10.0\Projekt zaliczenie.sourcelink.json
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\obj\Debug\net10.0\Projekt zaliczenie.dll
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\obj\Debug\net10.0\refint\Projekt zaliczenie.dll
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\obj\Debug\net10.0\Projekt zaliczenie.pdb
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\obj\Debug\net10.0\Projekt zaliczenie.genruntimeconfig.cache
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Projekt zaliczenie\obj\Debug\net10.0\ref\Projekt zaliczenie.dll

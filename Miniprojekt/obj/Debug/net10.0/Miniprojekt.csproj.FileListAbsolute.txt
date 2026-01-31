@@ -1,0 +1,15 @@
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\bin\Debug\net10.0\Miniprojekt.exe
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\bin\Debug\net10.0\Miniprojekt.deps.json
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\bin\Debug\net10.0\Miniprojekt.runtimeconfig.json
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\bin\Debug\net10.0\Miniprojekt.dll
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\bin\Debug\net10.0\Miniprojekt.pdb
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\obj\Debug\net10.0\Miniprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\obj\Debug\net10.0\Miniprojekt.AssemblyInfoInputs.cache
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\obj\Debug\net10.0\Miniprojekt.AssemblyInfo.cs
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\obj\Debug\net10.0\Miniprojekt.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\obj\Debug\net10.0\Miniprojekt.sourcelink.json
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\obj\Debug\net10.0\Miniprojekt.dll
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\obj\Debug\net10.0\refint\Miniprojekt.dll
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\obj\Debug\net10.0\Miniprojekt.pdb
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\obj\Debug\net10.0\Miniprojekt.genruntimeconfig.cache
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Miniprojekt\obj\Debug\net10.0\ref\Miniprojekt.dll

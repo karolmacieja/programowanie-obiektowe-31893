@@ -1,0 +1,15 @@
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\bin\Debug\net10.0\Zadanie 3.exe
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\bin\Debug\net10.0\Zadanie 3.deps.json
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\bin\Debug\net10.0\Zadanie 3.runtimeconfig.json
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\bin\Debug\net10.0\Zadanie 3.dll
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\bin\Debug\net10.0\Zadanie 3.pdb
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\obj\Debug\net10.0\Zadanie 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\obj\Debug\net10.0\Zadanie 3.AssemblyInfoInputs.cache
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\obj\Debug\net10.0\Zadanie 3.AssemblyInfo.cs
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\obj\Debug\net10.0\Zadanie 3.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\obj\Debug\net10.0\Zadanie 3.sourcelink.json
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\obj\Debug\net10.0\Zadanie 3.dll
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\obj\Debug\net10.0\refint\Zadanie 3.dll
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\obj\Debug\net10.0\Zadanie 3.pdb
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\obj\Debug\net10.0\Zadanie 3.genruntimeconfig.cache
+C:\Users\karol\Documents\GitHub\programowanie-obiektowe-31893\Zadanie 3\obj\Debug\net10.0\ref\Zadanie 3.dll
